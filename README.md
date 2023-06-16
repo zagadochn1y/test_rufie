@@ -48,7 +48,7 @@ Where P1, P2, P3 are the results of the first, second and third pulse measuremen
 --------------------------------------------
 Photo file " final_win.py "
 -----------------------------------------
-![image](https://github.com/zagadochn1y/test_rufie/assets/136070979/76ee88a6-4b97-4abb-b297-243fb5e2ea55)
+![image](https://github.com/zagadochn1y/test_rufie/assets/136070979/95d90989-f709-4ab1-8639-7f6257dbf2d8)
 ----------------------------------------
 If you read to the end, then you probably liked the project, please rate it and try it, thanks for your time!
 Bye - Bye !
